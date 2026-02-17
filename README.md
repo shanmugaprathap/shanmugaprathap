@@ -4,7 +4,7 @@
 
 20+ years building quality-first engineering cultures across BFSI, media, travel, and telecom.
 I've led QA at Olympic scale (NBCOlympics.com — 70M+ users), pioneered AI-assisted testing at Rocket Software,
-and built high-retention SDET teams that outlast the projects that created them.
+and built high-retention SDET teams with 90%+ retention — engineers who grow, get promoted, and stay.
 
 ---
 
@@ -75,11 +75,9 @@ I believe that quality is an engineering problem, not a testing problem.
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmugaprathap/)
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/shanmugaprathap) — Open to discussing QA leadership and test automation architecture
 - 📧 shanmugaprathap@gmail.com
-- 🌍 Chennai, India
+- 🌍 Chennai, India · Open to Remote
 
 ---
 
