@@ -1,40 +1,42 @@
 # Hi, I'm Shanmuga Prathap 👋
 
-## QA Engineering Leader | Test Automation Architect | AI Testing Advocate
+## QA Engineering Leader · Test Automation Architect · AI Testing Advocate
 
-Building quality-first engineering cultures through strategic test automation and AI-powered testing solutions.
+20+ years building quality-first engineering cultures across BFSI, media, travel, and telecom.  
+I've led QA at Olympic scale (NBCOlympics.com — 70M+ users), pioneered AI-assisted testing at Rocket Software,  
+and built high-retention SDET teams that outlast the projects that created them.
 
 ---
 
 ### 🎯 What I Do
 
-- **Lead QA Teams** — Building high-performing QA organizations with modern testing practices
-- **Design Test Architecture** — Creating scalable, maintainable automation frameworks
-- **Drive Quality Strategy** — Implementing shift-left testing, CI/CD quality gates, and metrics-driven quality
-- **Explore AI in Testing** — Researching and implementing AI-powered test automation
+- **Lead QA Organisations** — Built and scaled SDET teams of 10–20 engineers with 90%+ retention under BoT and embedded models
+- **Design Test Architecture** — Scalable Selenium + Java frameworks covering UI, API, and CI/CD integration
+- **Drive Quality Strategy** — Risk-based testing, shift-left practices, defect leakage tracking, KPI dashboards
+- **Champion AI in Testing** — Early adopter of GitHub Copilot for test automation; reduced scripting effort by 40%
 
 ---
 
-### 🛠️ Technical Expertise
+### 🛠️ Technical Stack
 
 **Test Automation**
 ```
-Selenium | Playwright | Cypress | Appium | REST Assured | Karate
+Selenium (Java) · REST Assured · SoapUI · Postman · TestNG · JMeter
 ```
 
-**Languages & Frameworks**
+**Cloud & DevOps**
 ```
-Java | Python | JavaScript | TypeScript | TestNG | JUnit | Pytest
-```
-
-**CI/CD & DevOps**
-```
-Jenkins | GitHub Actions | GitLab CI | Docker | Kubernetes | AWS
+AWS (Terraform · EKS) · Docker · Kubernetes · Jenkins · CI/CD Pipelines
 ```
 
-**AI & Analytics**
+**AI & Innovation**
 ```
-LLM Integration | Test Data Generation | Self-Healing Tests | Predictive Analytics
+GitHub Copilot · LLM-based Test Data Generation · AI-Assisted Test Generation
+```
+
+**Domains**
+```
+BFSI · Media & Streaming · Travel & E-Commerce · Telecom
 ```
 
 ---
@@ -42,47 +44,37 @@ LLM Integration | Test Data Generation | Self-Healing Tests | Predictive Analyti
 ### 📂 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| [**qa-automation-hub**](https://github.com/shanmugaprathap/qa-automation-hub) | Unified UI + API + CLI test framework with Selenium, REST Assured & Allure |
-| [**ai-test-strategy**](https://github.com/shanmugaprathap/ai-test-strategy) | Comprehensive guide to AI-powered test automation |
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmugaprathap&show_icons=true&theme=default&hide_border=true)
-
----
-
-### 🧠 Areas of Focus
-
-- **Test Strategy & Planning** — Risk-based testing, test estimation, coverage analysis
-- **Framework Design** — Page Object Model, data-driven, keyword-driven, hybrid frameworks
-- **Performance Testing** — JMeter, Gatling, k6, load testing strategy
-- **API Testing** — REST, GraphQL, contract testing, API security
-- **Mobile Testing** — iOS, Android, cross-platform automation
-- **AI/ML in Testing** — Test generation, self-healing locators, predictive test selection
+|---|---|
+| [**qa-automation-hub**](https://github.com/shanmugaprathap/qa-automation-hub) | Unified UI + API + CLI Java test framework with Selenium, REST Assured & Allure reporting |
+| [**qa-enterprise-suite**](https://github.com/shanmugaprathap/qa-enterprise-suite) | Enterprise QA automation suite with AI-driven testing and CI/CD integration |
+| [**ai-test-strategy**](https://github.com/shanmugaprathap/ai-test-strategy) | Practitioner's guide to AI-powered test automation — built from 20 years of QA leadership |
 
 ---
 
 ### 📈 Quality Engineering Philosophy
 
-> *"Quality is not an act, it is a habit."* — Aristotle
+I believe that quality is an engineering problem, not a testing problem.
 
-I believe in:
-- **Prevention over Detection** — Shift-left testing, early feedback loops
-- **Automation as Enabler** — Not replacing testers, but amplifying their impact
-- **Data-Driven Decisions** — Metrics that matter, not vanity metrics
-- **Continuous Improvement** — Retrospectives, experimentation, learning from failures
+- **Prevention over Detection** — Shift-left testing, early feedback loops, quality gates in CI/CD
+- **Automation as Force Multiplier** — Not replacing testers, but eliminating the work that shouldn't need humans
+- **Metrics that Matter** — Defect leakage rate, automation coverage, pipeline velocity — not test pass rates
+- **People First** — The best QA culture comes from teams that grow, not just processes that scale
+
+---
+
+### 🏆 Career Highlights
+
+- 🎯 Led QA for **NBCOlympics.com** — 70M+ users, zero critical defect escapes during live coverage
+- 🔐 Directed testing for **Sequent NFC Wallet Platform** — competing directly with Google Wallet
+- ✈️ Owned QA for **Expedia's** transactional mailing system across 12+ languages globally
+- 📱 Delivered QA for **T-Mobile's** customer-facing digital platforms across web and mobile
+- 🤖 Pioneered **GitHub Copilot** adoption for API test automation — 40% reduction in scripting effort
+- ☁️ Architected **AWS Terraform + EKS** test infrastructure — reduced environment provisioning by ~60%
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 Open to discussing QA leadership, test automation architecture, and AI in testing
-- 🤝 Happy to collaborate on open-source testing tools and frameworks
-- 📧 Reach out for speaking opportunities or consulting
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=shanmugaprathap&color=blue&style=flat)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shanmugaprathap) — Open to discussing QA leadership and test automation architecture
+- 📧 shanmugaprathap@gmail.com
+- 🌍 Chennai, India
