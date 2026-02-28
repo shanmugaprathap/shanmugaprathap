@@ -83,23 +83,4 @@ Windows · Linux
 
 ---
 
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [**qa-automation-hub**](https://github.com/shanmugaprathap/qa-automation-hub) | Multi-layer test automation framework supporting UI, API, and CLI testing with Allure reporting and CI/CD integration |
-| [**ai-test-strategy**](https://github.com/shanmugaprathap/ai-test-strategy) | Guide for integrating AI/ML into test automation strategies |
-
----
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmugaprathap/)
-
-- [LinkedIn](https://www.linkedin.com/in/shanmugaprathap) — Open to discussing program management, cloud reliability, and platform delivery
-- shanmugaprathap@gmail.com
-- Chennai, India
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shanmugaprathap&color=blue&style=flat)
