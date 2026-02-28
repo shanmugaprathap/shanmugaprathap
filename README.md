@@ -1,83 +1,104 @@
-# Hi, I'm Shanmuga Prathap 👋
+# Hi, I'm Shanmuga Prathap
 
-## QA Engineering Leader · Test Automation Architect · AI Testing Advocate
+## Technical Program Manager | Cloud Reliability & Platforms | Cloud Automation | People Management
 
-20+ years building quality-first engineering cultures across BFSI, media, travel, and telecom.
-I've led QA at Olympic scale (NBCOlympics.com — 70M+ users), pioneered AI-assisted testing at Rocket Software,
-and built high-retention SDET teams with 90%+ retention — engineers who grow, get promoted, and stay.
+20+ years driving reliable and predictable delivery across enterprise applications and platforms. PSM I certified Scrum Master with strong alignment to reliability engineering principles and modern engineering practices.
 
 ---
 
-### 🎯 What I Do
+### What I Do
 
-- **Lead QA Organisations** — Built and scaled SDET teams of 10–20 engineers with 90%+ retention under BoT and embedded models
-- **Design Test Architecture** — Scalable Selenium + Java frameworks covering UI, API, and CI/CD integration
-- **Drive Quality Strategy** — Risk-based testing, shift-left practices, defect leakage tracking, KPI dashboards
-- **Champion AI in Testing** — Early adopter of GitHub Copilot for test automation; reduced scripting effort by 40%
+- **Program Delivery & Roadmap Management** — Translate business requirements into BRDs, program charters, multi-quarter roadmaps, release plans, and delivery governance across cloud and container platforms
+- **Reliability & SRE-Aligned Governance** — Drive modern cloud and platform initiatives using SRE-aligned practices to achieve availability, change safety, and incident reduction
+- **Agile Delivery & Scrum Mastery** — Facilitate Agile ceremonies, govern backlogs, and manage cross-team dependencies within cloud-native and containerized environments
+- **KPIs, Dashboards & Executive Reporting** — Establish and govern metrics and dashboards to improve delivery transparency, predictability, and service stability
+- **Release & Production Readiness** — Enable structured change, release, and production readiness through risk-based governance and cross-functional coordination
 
 ---
 
-### 🛠️ Technical Stack
+### Core Competencies
 
-**Test Automation**
 ```
-Selenium (Java) · REST Assured · SoapUI · Postman · TestNG · JMeter
-```
-
-**Cloud & DevOps**
-```
-AWS (Terraform · EKS) · Docker · Kubernetes · Jenkins · CI/CD Pipelines
-```
-
-**AI & Innovation**
-```
-GitHub Copilot · LLM-based Test Data Generation · AI-Assisted Test Generation
-```
-
-**Domains**
-```
-BFSI · Media & Streaming · Travel & E-Commerce · Telecom
+Modern Engineering Practices        Risk, Issues & Escalation Management
+Reliability & SRE-Aligned Delivery  KPIs, Metrics & Executive Dashboards
+Scrum Master & Agile Delivery       Stakeholder Engagement
+Reliability-Oriented Product        Release & Production Readiness
 ```
 
 ---
 
-### 📂 Featured Projects
+### Technical Skills
+
+**Cloud**
+```
+AWS · Google Cloud Platform (GCP)
+```
+
+**Automation**
+```
+Infrastructure as Code (IaC) · Terraform
+```
+
+**Authentication**
+```
+Active Directory · Azure AD · Identity & Access Management (IAM)
+```
+
+**Tools**
+```
+JIRA · Asana · ServiceNow
+```
+
+**AI & Intelligent Delivery**
+```
+AI-Assisted Delivery Insights · Predictive Risk & Incident Trend Analysis · GenAI-Enabled Reporting
+```
+
+**Operating Systems**
+```
+Windows · Linux
+```
+
+---
+
+### Key Highlights
+
+- Led large-scale enterprise programs across platform initiatives, product development, and operational transformation, delivering **$20M+ portfolios** on time and within budget
+- Managed end-to-end project lifecycles for multi-year initiatives, improving **delivery predictability by 25-30%** through structured planning, governance, and dependency management
+- Successfully delivered global, multi-million-dollar programs with **distributed teams of 30-50+ members**, maintaining milestone adherence across phases
+- Established and governed **project KPIs, dashboards, and executive reporting**, increasing leadership visibility and reducing escalation cycles
+- Drove **Agile and hybrid delivery models**, improving release cadence and accelerating time-to-market by ~20% while ensuring stable transitions to operations
+
+---
+
+### Career Journey
+
+| Organization | Role | Duration |
+|---|---|---|
+| **Rocket Software** | Associate Manager — TPM, Cloud Reliability & Platforms | Jul 2019 - Present |
+| **Wipro Technologies** | Technical Lead — Platform Delivery & Reliability Enablement | Jan 2017 - Jul 2019 |
+| **SmarTek Consultancy Services** | Assistant Manager — Senior Consultant | Oct 2009 - Jan 2017 |
+| **Nucleus Software** | Senior Software Engineer | Nov 2008 - Oct 2009 |
+| **ABN AMRO / RBS** | Engineer | Jun 2006 - Nov 2008 |
+
+---
+
+### Featured Projects
 
 | Project | Description |
 |---|---|
-| [**qa-automation-hub**](https://github.com/shanmugaprathap/qa-automation-hub) | Unified UI + API + CLI Java test framework with Selenium, REST Assured & Allure reporting |
-| [**qa-enterprise-suite**](https://github.com/shanmugaprathap/qa-enterprise-suite) | Enterprise QA automation suite with AI-driven testing and CI/CD integration |
-| [**ai-test-strategy**](https://github.com/shanmugaprathap/ai-test-strategy) | Practitioner's guide to AI-powered test automation — built from 20 years of QA leadership |
+| [**qa-automation-hub**](https://github.com/shanmugaprathap/qa-automation-hub) | Multi-layer test automation framework supporting UI, API, and CLI testing with Allure reporting and CI/CD integration |
+| [**ai-test-strategy**](https://github.com/shanmugaprathap/ai-test-strategy) | Guide for integrating AI/ML into test automation strategies |
 
 ---
 
-### 📈 Quality Engineering Philosophy
+### Let's Connect
 
-I believe that quality is an engineering problem, not a testing problem.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmugaprathap/)
 
-- **Prevention over Detection** — Shift-left testing, early feedback loops, quality gates in CI/CD
-- **Automation as Force Multiplier** — Not replacing testers, but eliminating the work that shouldn't need humans
-- **Metrics that Matter** — Defect leakage rate, automation coverage, pipeline velocity — not test pass rates
-- **People First** — The best QA culture comes from teams that grow, not just processes that scale
-
----
-
-### 🏆 Career Highlights
-
-- 🎯 Led QA for **NBCOlympics.com** — 70M+ users, zero critical defect escapes during live coverage
-- 🔐 Directed testing for **Sequent NFC Wallet Platform** — competing directly with Google Wallet
-- ✈️ Owned QA for **Expedia's** transactional mailing system across 12+ languages globally
-- 📱 Delivered QA for **T-Mobile's** customer-facing digital platforms across web and mobile
-- 🤖 Pioneered **GitHub Copilot** adoption for API test automation — 40% reduction in scripting effort
-- ☁️ Architected **AWS Terraform + EKS** test infrastructure — reduced environment provisioning by ~60%
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/shanmugaprathap) — Open to discussing QA leadership and test automation architecture
-- 📧 shanmugaprathap@gmail.com
-- 🌍 Chennai, India · Open to Remote
+- [LinkedIn](https://www.linkedin.com/in/shanmugaprathap) — Open to discussing program management, cloud reliability, and platform delivery
+- shanmugaprathap@gmail.com
+- Chennai, India
 
 ---
 
