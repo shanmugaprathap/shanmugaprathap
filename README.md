@@ -1,6 +1,6 @@
 # Hi, I'm Shanmuga Prathap
 
-## Technical Program Manager | Cloud Reliability & Platforms | Cloud Automation | People Management
+## Project and Program Manager | Cloud Reliability & Platforms | Cloud Automation | People Management
 
 20+ years driving reliable and predictable delivery across enterprise applications and platforms. PSM I certified Scrum Master with strong alignment to reliability engineering principles and modern engineering practices.
 
@@ -75,7 +75,8 @@ Windows · Linux
 
 | Organization | Role | Duration |
 |---|---|---|
-| **Rocket Software** | Associate Manager — TPM, Cloud Reliability & Platforms | Jul 2019 - Present |
+| **Astreya** | Project and Program Manager | Mar 2026 - Present |
+| **Rocket Software** | Associate Manager — TPM, Cloud Reliability & Platforms | Jul 2019 - Jan 2026 |
 | **Wipro Technologies** | Technical Lead — Platform Delivery & Reliability Enablement | Jan 2017 - Jul 2019 |
 | **SmarTek Consultancy Services** | Assistant Manager — Senior Consultant | Oct 2009 - Jan 2017 |
 | **Nucleus Software** | Senior Software Engineer | Nov 2008 - Oct 2009 |
